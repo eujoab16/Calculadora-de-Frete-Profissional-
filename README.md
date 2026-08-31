@@ -2,6 +2,8 @@
 
 Aplicação web desenvolvida em arquivo único (`HTML5` e `JavaScript`) focada no cálculo preciso de fretes por quilometragem para motoristas e prestadores de serviços independentes no Brasil.
 
+🔗 **Acesse a aplicação online:** [Calculadora de Frete Profissional](https://eujoab16.github.io/Calculadora-de-Frete-Profissional-/)
+
 ## 🚀 Funcionalidades
 - **Seleção por Estado (Origem e Destino):** Permite configurar o estado de abastecimento na origem e o destino da viagem.
 - **Preços de Referência ANP:** Carrega automaticamente a média de preço da gasolina de todos os 26 estados e Distrito Federal, com liberdade para edição manual.
@@ -19,11 +21,8 @@ Aplicação web desenvolvida em arquivo único (`HTML5` e `JavaScript`) focada n
 2. Abra o arquivo `index.html` diretamente em qualquer navegador web moderno.
 
 ## 🌐 Hospedagem (GitHub Pages)
-Este projeto está configurado para rodar de forma estática. Para publicar na web gratuitamente:
-1. Vá até as **Settings** (Configurações) do repositório no GitHub.
-2. Clique na aba **Pages** no menu lateral esquerdo.
-3. Na seção **Build and deployment**, altere a Branch de `None` para `main` (ou `master`) e clique em **Save**.
-4. Em poucos minutos, o link da sua aplicação estará disponível.
+Este projeto está hospedado de forma estática via GitHub Pages e pode ser acessado diretamente pelo link:
+👉 [https://eujoab16.github.io/Calculadora-de-Frete-Profissional-/](https://eujoab16.github.io/Calculadora-de-Frete-Profissional-/)
 
 ## 📊 Fontes de Dados
 - Médias de preços de combustíveis baseadas nas pesquisas públicas da [ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis)](https://www.gov.br/anp/pt-br).
